@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://deepdata21.github.io/csb-gsyg4z/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://deepdata21.github.io/csb-gsyg4z/static/js/main.9961375e.chunk.js",
+    "main.js.map": "https://deepdata21.github.io/csb-gsyg4z/static/js/main.9961375e.chunk.js.map",
+    "runtime-main.js": "https://deepdata21.github.io/csb-gsyg4z/static/js/runtime-main.1211c080.js",
+    "runtime-main.js.map": "https://deepdata21.github.io/csb-gsyg4z/static/js/runtime-main.1211c080.js.map",
+    "static/js/2.a405e411.chunk.js": "https://deepdata21.github.io/csb-gsyg4z/static/js/2.a405e411.chunk.js",
+    "static/js/2.a405e411.chunk.js.map": "https://deepdata21.github.io/csb-gsyg4z/static/js/2.a405e411.chunk.js.map",
+    "index.html": "https://deepdata21.github.io/csb-gsyg4z/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://deepdata21.github.io/csb-gsyg4z/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.a405e411.chunk.js.LICENSE.txt": "https://deepdata21.github.io/csb-gsyg4z/static/js/2.a405e411.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1211c080.js",
+    "static/js/2.a405e411.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.9961375e.chunk.js"
+  ]
+}
